@@ -3,13 +3,13 @@
 Quick and dirty Todo
 
 - MCU
- - ESP or Arduino
+  - ESP or Arduino
 - LCD Display
- - Builtin or External
+  - Builtin or External
 - Buttons
 - Box Design
 - Power Supply
- - 5/12V - power both board and Relay
+  - 5/12V - power both board and Relay
 - PCB
 - Smoke Detector
 - Thermistor / Design
