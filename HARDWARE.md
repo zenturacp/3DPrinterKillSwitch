@@ -6,7 +6,7 @@ Here will go a list of differnet hardware pieces
 
 ## Smoke Sensor
 
-## ESP Boards w/Displays
+## MCU Boards w/Displays
 
 ## Buttons
 
